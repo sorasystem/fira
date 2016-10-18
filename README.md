@@ -1,6 +1,6 @@
-== Boiler Rails5 App
+== FIRA
 
-**App** is an app.
+**FIRA** is a Fintech app of SORA.
 
 ## Instructions
 
